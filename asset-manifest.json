@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55a0ea21.chunk.css",
+    "main.js": "/static/js/main.32ea623b.chunk.js",
+    "main.js.map": "/static/js/main.32ea623b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bf0b46b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bf0b46b0.js.map",
+    "static/js/2.a93a2543.chunk.js": "/static/js/2.a93a2543.chunk.js",
+    "static/js/2.a93a2543.chunk.js.map": "/static/js/2.a93a2543.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2bdf979ca6655bba964ed49c3cfe56de.js": "/precache-manifest.2bdf979ca6655bba964ed49c3cfe56de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.55a0ea21.chunk.css.map": "/static/css/main.55a0ea21.chunk.css.map",
+    "static/js/2.a93a2543.chunk.js.LICENSE.txt": "/static/js/2.a93a2543.chunk.js.LICENSE.txt",
+    "static/media/Resume_Corentin_Dominguez.pdf": "/static/media/Resume_Corentin_Dominguez.210c6423.pdf",
+    "static/media/job_ad_PPP.png": "/static/media/job_ad_PPP.84e8be05.png",
+    "static/media/photo_corentin_carree.jpg": "/static/media/photo_corentin_carree.1830ef48.jpg",
+    "static/media/poster_shs.png": "/static/media/poster_shs.c5f42ccf.png",
+    "static/media/presentation_PPP.pdf": "/static/media/presentation_PPP.c185415b.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0b46b0.js",
+    "static/js/2.a93a2543.chunk.js",
+    "static/css/main.55a0ea21.chunk.css",
+    "static/js/main.32ea623b.chunk.js"
+  ]
+}
